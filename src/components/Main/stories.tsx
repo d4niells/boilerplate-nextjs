@@ -8,8 +8,3 @@ export default {
 } as Meta;
 
 export const Basic: Story = (args) => <Main {...args} />;
-
-Basic.args = {
-  title: 'React Avançado',
-  description: 'Typescript, ReactJS, NextJS e Styled Components'
-};
