@@ -48,6 +48,21 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+- `generate`: automate component creation with [plop](https://plopjs.com/documentation/#getting-started)
+
+## Create component with basic structure
+
+Run this command to create your basic structure component:
+
+```bash
+# Exemplo: npm run generate Button
+npm run generate
+
+# or
+
+# Exemplo: yarn generate Button
+yarn generate
+```
 
 ## Learn More
 
