@@ -1,5 +1,5 @@
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+# Boilerplate
 
 This is a [Next.js](https://nextjs.org/) boilerplate to get your projects started quickly.
 ![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
